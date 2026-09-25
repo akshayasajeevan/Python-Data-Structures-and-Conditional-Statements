@@ -2,14 +2,14 @@
 
 ## 📌 Overview
 
-This project demonstrates fundamental Python concepts through practical exercises using **Lists, Dictionaries, Sets, Operators, and Conditional Statements**.
+This project demonstrates fundamental Python concepts through practical exercises using Lists, Dictionaries, Sets, Operators, and Conditional Statements.
 
-The work was developed and executed using **Python in Jupyter Notebook**.
+The work was developed and executed using Python in Jupyter Notebook.
 
 ## 🎯 Objectives
 
 - Understand and manipulate Python Lists
-- Create, access, modify, and update Dictionaries
+- Create, access, and modify Dictionaries
 - Understand Set behavior and unique elements
 - Perform Union and Intersection operations
 - Apply `if`, `elif`, and `else` statements
@@ -18,55 +18,40 @@ The work was developed and executed using **Python in Jupyter Notebook**.
 ## 📚 Topics Covered
 
 ### Lists
-
 - Creating and modifying Lists
-- `append()`
-- `insert()`
-- `remove()`
-- `pop()`
-- `extend()`
-- Sorting in descending order
+- `append()`, `insert()`, `remove()`, `pop()`, and `extend()`
+- Sorting, indexing, slicing, and reversing
 - Finding maximum, minimum, and sum
-- Indexing and slicing
-- Reversing a List
 
 ### Dictionaries
-
-- Creating a Dictionary
-- Accessing values
-- Adding new key-value pairs
-- Updating existing values
+- Creating and accessing Dictionaries
+- Adding and updating key-value pairs
 - Using `keys()`, `values()`, and `items()`
 
 ### Sets
-
 - Creating Sets
-- Understanding duplicate-value removal
+- Handling duplicate values
 - Understanding Set indexing limitations
-- Union
-- Intersection
+- Union and Intersection operations
 
 ### Conditional Statements
-
-- `if`
-- `elif`
-- `else`
+- `if`, `elif`, and `else`
 - User input
 - Performance classification based on score
-- Displaying messages based on performance
+- Category-based feedback messages
 
 ## 🛠️ Tools & Technologies
 
-- **Python**
-- **Jupyter Notebook**
+- Python
+- Jupyter Notebook
 
 ## 💡 Key Learning
 
-This project provided practical experience with Python's fundamental data structures and conditional logic. It strengthened understanding of how Lists, Dictionaries, and Sets work and how conditional statements can be used to make decisions based on user input.
+This project provided practical experience with Python's fundamental data structures and conditional logic. It strengthened understanding of Lists, Dictionaries, Sets, and decision-making using conditional statements.
 
 ## 📂 Project File
 
-`List, Dictionary, Set & Conditional Statements Assignment2.ipynb`
+`Python_Data_Structures.ipynb`
 
 ## 👩‍💻 Author
 
